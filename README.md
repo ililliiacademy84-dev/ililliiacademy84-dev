@@ -78,14 +78,12 @@ passion:
   - Building beautiful applications
   - Solving real-world problems
   - Learning emerging technologies
-
 currently_exploring:
   - Artificial Intelligence
   - Machine Learning
   - Cloud Architecture
   - DevOps Automation
   - Modern Web Technologies
-
 mission:
   "Create technology that makes life easier."
 
