@@ -54,15 +54,12 @@
 </div>
 
 
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 # 🌌 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-
-
-
 Name: FEYSAL HUSSEIN
+
 Role: 
   - Full Stack Developer
   - Software Engineer
