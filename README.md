@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ilillii Academy
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm  FEYSAL HUSSEIN
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+Full+Stack+Developer;💻+Open+Source+Contributor;⚡+Building+Amazing+Projects;🔥+Always+Learning+New+Technologies" />
 
@@ -11,13 +11,27 @@
 </p>
 
 </div>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00F5A0,100:00C6FF&text=Ilillii%20Academy&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Open%20Source%20•%20AI%20Enthusiast&descAlignY=55"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future;💻+Full+Stack+Developer;⚡+Open+Source+Contributor;🤖+AI+%26+Cloud+Explorer;🌍+Always+Learning+Something+New"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=ililliiacademy84-dev&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/ililliiacademy84-dev?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ililliiacademy84-dev?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Enthusiast-blue?style=for-the-badge"/>
+</p>
+
+</div>
 ---
 
 # 🌌 About Me
 
 ```yaml
-Name: Ilillii Academy
+Name: FEYSAL HUSSEIN
 Role: Full Stack Developer
 Focus:
   - Web Development
