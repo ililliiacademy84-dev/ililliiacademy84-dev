@@ -13,7 +13,7 @@
 </div>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00F5A0,100:00C6FF&text=Ilillii%20Academy&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Open%20Source%20•%20AI%20Enthusiast&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00F5A0,100:00C6FF&text=FEYSAL%20HUSSEIN&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Open%20Source%20•%20AI%20Enthusiast&descAlignY=55"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future;💻+Full+Stack+Developer;⚡+Open+Source+Contributor;🤖+AI+%26+Cloud+Explorer;🌍+Always+Learning+Something+New"/>
 
